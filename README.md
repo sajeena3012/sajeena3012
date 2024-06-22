@@ -1,10 +1,10 @@
 ### 💫 About Me:
  ### Hi there! I'm Rukkiah Sajeena
  <br>🎓 A final year B.Tech student majoring in Computer Science.
- <br>💻 I'm passionate about coding and love to work with Java and Python.</br>
- <br>🔍 Always eager to learn and explore new technologies.</br>
- <br>🌟 Currently honing my skills in algorithms, data structures, and software development. Open to collaboration and new opportunities!</br>
- <br>🌐 Let's connect! find me on [LinkedIn](https://www.linkedin.com/in/rukkiah-sajeena-m-88b2a7268/).</br>
+ <br>💻 I'm passionate about coding and love to work with Java and Python.
+ <br>🔍 Always eager to learn and explore new technologies.
+ <br>🌟 Currently honing my skills in algorithms, data structures, and software development. Open to collaboration and new opportunities!
+ <br>🌐 Let's connect! find me on [LinkedIn](https://www.linkedin.com/in/rukkiah-sajeena-m-88b2a7268/).
 
 
 ## 🌐 Socials:
