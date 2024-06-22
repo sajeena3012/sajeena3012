@@ -1,6 +1,6 @@
 ### 💫 About Me:
  ### Hi there! I'm Rukkiah Sajeena
- <br>🎓 A final year B.Tech student majoring in Computer Science.</br>
+ <br>🎓 A final year B.Tech student majoring in Computer Science.
  <br>💻 I'm passionate about coding and love to work with Java and Python.</br>
  <br>🔍 Always eager to learn and explore new technologies.</br>
  <br>🌟 Currently honing my skills in algorithms, data structures, and software development. Open to collaboration and new opportunities!</br>
