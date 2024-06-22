@@ -6,4 +6,4 @@
 
 📫 Let's connect! find me on [LinkedIn](https://www.linkedin.com/in/rukkiah-sajeena-m-88b2a7268/).
 
-[![Rukkiah Sajeena's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajeena3012)](https://github.com/anuraghazra/github-readme-stats)
+![Rukkiah Sajeena's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
