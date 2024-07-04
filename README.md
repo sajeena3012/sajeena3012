@@ -1,5 +1,5 @@
 ##  About Me:
- ### Hi there! I'm Rukkiah Sajeena
+<h1 align="center">Hi 👋, I'm Rukkiah Sajeena!</h1>
  <br>🎓 A final year B.Tech student majoring in Computer Science.
  <br>💻 I'm passionate about coding and love to work with Java and Python.
  <br>🔍 Always eager to learn and explore new technologies.
