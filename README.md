@@ -4,7 +4,7 @@
  <br>💻 I'm passionate about coding and love to work with Java and Python.
  <br>🔍 Always eager to learn and explore new technologies.
  <br>🌟 Currently honing my skills in algorithms, data structures, and software development. Open to collaboration and new opportunities!
- <br>🌐Let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/rukkiah-sajeena-m-88b2a7268/)
+ <br>🌐Let's connect! Find me on [LinkedIn](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
 
 
 ## 🌐 Socials:
