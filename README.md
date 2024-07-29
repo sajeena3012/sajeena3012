@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rukkiah Sajeena M</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<br> 🎓 A final year B.Tech student majoring in Computer Science.
+- 🎓 A final year B.Tech student majoring in Computer Science.
+
 - 🌱 I’m currently learning **Currently honing my skills in algorithms, data structures, and software development.**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
 - 📫 How to reach me **rukkiahsajeena3012@gmail.com**
-<br> 💻 I'm passionate about coding and love to work with Java and Python.
-<br> 🔍 Always eager to learn and explore new technologies.
+
+- 💻 I'm passionate about coding and love to work with Java and Python.
+  
+- 🔍 Always eager to learn and explore new technologies.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
