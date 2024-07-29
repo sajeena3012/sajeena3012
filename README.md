@@ -4,7 +4,7 @@
  <br>💻 I'm passionate about coding and love to work with Java and Python.
  <br>🔍 Always eager to learn and explore new technologies.
  <br>🌟 Currently honing my skills in algorithms, data structures, and software development. 
- <br> connect me on [Linked In] (https://www.linkedin.com/in/rukkiah-sajeena-m-88b2a7268/)
+ 
  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rukkiah-sajeena-m-88b2a7268/) 
