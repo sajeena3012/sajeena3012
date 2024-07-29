@@ -4,6 +4,7 @@
  <br>💻 I'm passionate about coding and love to work with Java and Python.
  <br>🔍 Always eager to learn and explore new technologies.
  <br>🌟 Currently honing my skills in algorithms, data structures, and software development. 
+ <br> ✉️  You can contact me at [sanjaysurya3010@gmail.com](mailto:sanjaysurya3010@gmail.com)
  
  
 ## 🌐 Socials:
