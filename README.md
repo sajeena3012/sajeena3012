@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rukkiah Sajeena M</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
 - 🎓 A final year B.Tech student majoring in Computer Science.
 
 - 🌱 I’m currently learning **Currently honing my skills in algorithms, data structures, and software development.**
