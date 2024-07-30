@@ -7,11 +7,13 @@
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 📫 How to reach me **rukkiahsajeena3012@gmail.com**
-
-- 💻 I'm passionate about coding and love to work with Java and Python.
+-  💻 I'm passionate about coding and love to work with Java and Python.
   
 - 🔍 Always eager to learn and explore new technologies.
+
+- 📫 How to reach me **rukkiahsajeena3012@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
