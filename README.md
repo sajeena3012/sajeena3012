@@ -3,7 +3,7 @@
 
 - 🎓 A final year B.Tech student majoring in Computer Science.
 
-- 🌱 I’m currently learning **Currently honing my skills in algorithms, data structures, and software development.**
+- 🌱 I’m **Currently honing my skills in algorithms, data structures, and software development.**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
